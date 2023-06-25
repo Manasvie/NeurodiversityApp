@@ -1,0 +1,834 @@
+.dyslexia-box {
+  position: absolute;
+  top: 150.56rem;
+  left: 0;
+  background-color: rgba(177, 102, 104, 0.5);
+  width: 50rem;
+  height: 22.56rem;
+}
+.adhd-box,
+.autism-box,
+.other-types-box {
+  position: absolute;
+  background-color: rgba(117, 197, 163, 0.5);
+  width: 50rem;
+  height: 22.56rem;
+}
+.autism-box {
+  top: 128rem;
+  left: 0;
+}
+.adhd-box,
+.other-types-box {
+  top: 150.56rem;
+  left: 50rem;
+}
+.adhd-box {
+  top: 128rem;
+  background-color: rgba(177, 102, 104, 0.5);
+}
+.kids-readingamico-icon {
+  position: absolute;
+  top: 4.75rem;
+  left: 60rem;
+  width: 27.75rem;
+  height: 24.27rem;
+}
+.change-the-narrative,
+.lets-dive-in {
+  position: absolute;
+  top: 8.69rem;
+  left: 13rem;
+  display: inline-block;
+  width: 30rem;
+  height: 11.81rem;
+}
+.change-the-narrative {
+  top: 21.88rem;
+  font-size: 1.5rem;
+  color: #5f5f5f;
+  width: 29.44rem;
+  height: 2.44rem;
+}
+.hero-page {
+  position: absolute;
+  top: 4.13rem;
+  left: 0;
+  background-color: rgba(237, 217, 226, 0.53);
+  width: 120rem;
+  height: 31.06rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 3rem;
+}
+.hi-five-img {
+  position: absolute;
+  top: 277.13rem;
+  left: 10.75rem;
+  width: 20.19rem;
+  height: 21.63rem;
+  object-fit: cover;
+}
+.about {
+  position: absolute;
+  top: 37.5rem;
+  left: 43.7rem;
+  font-weight: 500;
+  text-align: left;
+}
+.our-goal-box,
+.our-mission-box,
+.our-vision-box {
+  position: absolute;
+  border-radius: 80px;
+  width: 18.75rem;
+  height: 6.25rem;
+}
+.our-goal-box {
+  top: 47.25rem;
+  left: 12rem;
+  background-color: rgba(255, 176, 10, 0.56);
+}
+.our-mission-box,
+.our-vision-box {
+  top: 47.25rem;
+  left: 38rem;
+  background-color: #d6a4de;
+}
+.our-mission-box {
+  left: 63.25rem;
+  background-color: #21ac9f;
+}
+.our-goal {
+  position: relative;
+  font-weight: 500;
+}
+.goal-frame,
+.our-goal-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.goal-frame {
+  position: absolute;
+  top: 46.69rem;
+  left: 11.3rem;
+  width: 19.75rem;
+  height: 6.31rem;
+  padding: 0.63rem;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.our-vision {
+  position: absolute;
+  top: 48.75rem;
+  left: 42.2rem;
+  font-weight: 500;
+}
+.our-mission-wrapper {
+  position: absolute;
+  top: 48.75rem;
+  left: 66.63rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.our-goal-is,
+.our-goal-is1,
+.our-goal-is2 {
+  position: absolute;
+  top: 54.56rem;
+  left: 9.2rem;
+  font-size: 1.25rem;
+  color: #5f5f5f;
+  display: inline-block;
+  width: 23.25rem;
+  height: 4.56rem;
+}
+.our-goal-is1,
+.our-goal-is2 {
+  left: 61.31rem;
+}
+.our-goal-is2 {
+  top: 54.75rem;
+  left: 33rem;
+  width: 27.5rem;
+}
+.gradient-box {
+  position: absolute;
+  top: 63.75rem;
+  left: 0;
+  background: linear-gradient(180deg, #9b3391, rgba(219, 56, 21, 61%));
+  width: 120rem;
+  height: 7.75rem;
+}
+.around-one-in {
+  position: absolute;
+  top: 65.88rem;
+  left: 10.38rem;
+  font-weight: 500;
+  color: #fff;
+  display: inline-block;
+  width: 69.25rem;
+  height: 3.94rem;
+}
+.autism1 {
+  font-size: 2.25rem;
+  font-weight: 500;
+  font-family: "Playfair Display";
+}
+.autism {
+  margin: 0;
+}
+.autism-self-advocacy-network1 {
+  text-decoration: underline;
+}
+.autism-self-advocacy-network {
+  color: inherit;
+}
+.autism-autism-is-container {
+  position: absolute;
+  top: 129.13rem;
+  left: 8rem;
+  color: inherit;
+  display: inline-block;
+  width: 33.38rem;
+  height: 20.38rem;
+  font-size: 1rem;
+}
+.attention-deficit-hyperactivit {
+  margin: 0;
+  font-size: 1rem;
+}
+.adhd-attention-deficit-container {
+  position: absolute;
+  top: 129.94rem;
+  left: 56rem;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 33.38rem;
+  height: 18.31rem;
+}
+.dyslexia-this-form-container,
+.other-types-other-container,
+.resources {
+  position: absolute;
+  top: 152.69rem;
+  left: 8rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 33.38rem;
+  height: 17.88rem;
+}
+.other-types-other-container,
+.resources {
+  left: 56.3rem;
+  height: 12.25rem;
+}
+.resources {
+  top: 181.19rem;
+  left: 40.1rem;
+  width: 14.88rem;
+  height: 3.13rem;
+}
+.logo-how-to-adhd {
+  position: absolute;
+  top: 2.56rem;
+  left: 2.56rem;
+  width: 13.61rem;
+  height: 14.38rem;
+  object-fit: cover;
+}
+.button-1 {
+  position: absolute;
+  top: 25.63rem;
+  left: 4.56rem;
+  border-radius: 16px;
+  background-color: #003596;
+  width: 9.63rem;
+  height: 3.38rem;
+  cursor: pointer;
+}
+.how-to-adhd1,
+.learn-more {
+  position: absolute;
+  top: 18.75rem;
+  left: 2.56rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 13.63rem;
+  height: 5.06rem;
+}
+.learn-more {
+  top: 26.44rem;
+  left: 6.38rem;
+  color: #fff;
+  width: 5.81rem;
+  height: 1.69rem;
+}
+.how-to-adhd {
+  position: absolute;
+  top: 191.25rem;
+  left: 13rem;
+  background-color: #f0f0f0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 18.75rem;
+  height: 31.25rem;
+  font-size: 0.94rem;
+}
+.button-2 {
+  position: absolute;
+  top: 25.75rem;
+  left: 4.56rem;
+  border-radius: 16px;
+  background-color: #3a437e;
+  width: 9.63rem;
+  height: 3.38rem;
+  cursor: pointer;
+}
+.autism-sketches-is,
+.learn-more1 {
+  position: absolute;
+  top: 18.75rem;
+  left: 2.94rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 13.63rem;
+  height: 5.06rem;
+}
+.learn-more1 {
+  top: 26.56rem;
+  left: 6.5rem;
+  color: #fff;
+  width: 5.81rem;
+  height: 1.69rem;
+}
+.logo-autism-sketches-icon {
+  position: absolute;
+  top: 3.13rem;
+  left: 2.19rem;
+  width: 14.38rem;
+  height: 14.38rem;
+  object-fit: cover;
+}
+.autism-sketches {
+  position: absolute;
+  top: 191.25rem;
+  left: 38rem;
+  background-color: #f0f0f0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 18.75rem;
+  height: 31.25rem;
+  font-size: 0.94rem;
+}
+.button-3 {
+  position: absolute;
+  top: 25.63rem;
+  left: 4.88rem;
+  border-radius: 16px;
+  background-color: #002938;
+  width: 9.63rem;
+  height: 3.38rem;
+  cursor: pointer;
+}
+.learn-more2,
+.understood-is-a {
+  position: absolute;
+  top: 18.75rem;
+  left: 2.88rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 13.63rem;
+  height: 5.06rem;
+}
+.learn-more2 {
+  top: 26.56rem;
+  left: 6.75rem;
+  color: #fff;
+  width: 5.81rem;
+  height: 1.69rem;
+}
+.logo-understood-icon {
+  position: absolute;
+  top: 3.13rem;
+  left: 2.25rem;
+  width: 14.38rem;
+  height: 14.38rem;
+  object-fit: cover;
+}
+.understoodorg {
+  position: absolute;
+  top: 191.25rem;
+  left: 63rem;
+  background-color: #f0f0f0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 18.75rem;
+  height: 31.25rem;
+  font-size: 0.94rem;
+}
+.button-4 {
+  position: absolute;
+  top: 25.56rem;
+  left: 4.56rem;
+  border-radius: 16px;
+  background-color: #f27127;
+  width: 9.63rem;
+  height: 3.38rem;
+  cursor: pointer;
+}
+.explore-here,
+.ocd-gamechangers-is {
+  position: absolute;
+  top: 18.44rem;
+  left: 2.56rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 13.63rem;
+  height: 5.06rem;
+}
+.explore-here {
+  top: 26.38rem;
+  left: 6.38rem;
+  color: #fff;
+  width: 5.81rem;
+  height: 1.69rem;
+}
+.ocdgamechangers-logo-icon {
+  position: absolute;
+  top: 2.94rem;
+  left: 2.19rem;
+  width: 14.38rem;
+  height: 12.7rem;
+  object-fit: cover;
+}
+.ocd-gamechangers {
+  position: absolute;
+  top: 228.13rem;
+  left: 13rem;
+  background-color: #f0f0f0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 18.75rem;
+  height: 31.25rem;
+  font-size: 0.94rem;
+}
+.button-5 {
+  position: absolute;
+  top: 25.69rem;
+  left: 4.56rem;
+  border-radius: 16px;
+  background-color: #1a9996;
+  width: 9.63rem;
+  height: 3.38rem;
+  cursor: pointer;
+}
+.explore-here1,
+.mentalhealthnet-provides-onli {
+  position: absolute;
+  top: 18.44rem;
+  left: 2.69rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 13.63rem;
+  height: 5.06rem;
+}
+.explore-here1 {
+  top: 26.56rem;
+  left: 6.63rem;
+  color: #fff;
+  width: 5.81rem;
+  height: 1.69rem;
+}
+.logo-mental-health-icon {
+  position: absolute;
+  top: 2.31rem;
+  left: 2.31rem;
+  width: 14.38rem;
+  height: 14.38rem;
+  object-fit: cover;
+}
+.mentalhealthnet {
+  position: absolute;
+  top: 228.13rem;
+  left: 38rem;
+  background-color: #f0f0f0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 18.75rem;
+  height: 31.25rem;
+  font-size: 0.94rem;
+}
+.button-6 {
+  position: absolute;
+  top: 25.56rem;
+  left: 4.56rem;
+  border-radius: 16px;
+  background-color: #3630a2;
+  width: 9.63rem;
+  height: 3.38rem;
+  cursor: pointer;
+}
+.explore-here2,
+.the-neurodivergent-nurse1 {
+  position: absolute;
+  top: 18.75rem;
+  left: 2.69rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 13.63rem;
+  height: 5.06rem;
+}
+.explore-here2 {
+  top: 26.56rem;
+  left: 6.56rem;
+  color: #fff;
+  width: 5.81rem;
+  height: 1.69rem;
+}
+.the-neurodivergent-nurse {
+  position: absolute;
+  top: 228.13rem;
+  left: 63rem;
+  background-color: #f0f0f0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 18.75rem;
+  height: 31.25rem;
+  font-size: 0.94rem;
+}
+.stories {
+  position: absolute;
+  top: 266.31rem;
+  left: 43rem;
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+  width: 9.81rem;
+  height: 2.88rem;
+}
+.footer {
+  position: absolute;
+  top: 309.19rem;
+  left: 0;
+  background-color: #000;
+  width: 120rem;
+  height: 14.88rem;
+}
+.neurodivers-2023 {
+  margin-block-start: 0;
+  margin-block-end: 5px;
+}
+.copyright {
+  position: absolute;
+  top: 316.63rem;
+  left: 34rem;
+  font-size: 1.25rem;
+  font-family: Inter;
+  color: #dfdfdf;
+  display: inline-block;
+  width: 26.75rem;
+  height: 4.06rem;
+}
+.made-with {
+  position: relative;
+  display: inline-block;
+  width: 7.19rem;
+  height: 1.44rem;
+  flex-shrink: 0;
+}
+.heart-icon {
+  position: relative;
+  width: 2rem;
+  height: 1.75rem;
+  object-fit: cover;
+  margin-left: -0.62rem;
+}
+.made-with-love {
+  position: absolute;
+  top: 311.94rem;
+  left: 43rem;
+  width: 9.38rem;
+  height: 1.75rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 1.25rem;
+  color: #fff;
+  font-family: Inter;
+}
+.download-removebg-preview-1 {
+  position: relative;
+  width: 4.38rem;
+  height: 2.09rem;
+  object-fit: cover;
+}
+.neurodivers {
+  position: relative;
+  display: inline-block;
+  width: 7.25rem;
+  height: 2.25rem;
+  flex-shrink: 0;
+}
+.logo,
+.web-logo {
+  width: 12.31rem;
+  height: 2.25rem;
+}
+.logo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.69rem;
+}
+.web-logo {
+  position: relative;
+}
+.about1,
+.home,
+.neurodivergence,
+.resources1,
+.stories1 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+  cursor: pointer;
+}
+.about1 {
+  left: 0;
+  width: 3.88rem;
+}
+.home,
+.neurodivergence,
+.resources1,
+.stories1 {
+  left: 6.56rem;
+  width: 4rem;
+}
+.neurodivergence,
+.resources1,
+.stories1 {
+  left: 13.25rem;
+  width: 10.25rem;
+}
+.resources1,
+.stories1 {
+  left: 26.19rem;
+  width: 6.19rem;
+}
+.stories1 {
+  left: 35.06rem;
+  width: 4.19rem;
+}
+.main-menu,
+.menu {
+  width: 39.25rem;
+  height: 1.5rem;
+}
+.menu {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.main-menu {
+  position: relative;
+  font-family: Inter;
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fbeef2;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100rem;
+  overflow: auto;
+  display: flex;
+  flex-direction: row;
+  padding: 0.94rem 7.19rem;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: 24rem;
+  text-align: left;
+  font-size: 1.25rem;
+}
+.ellipse-neurodiversity {
+  position: absolute;
+  top: 11.06rem;
+  left: 55rem;
+  border-radius: 50%;
+  background: linear-gradient(179.94deg, #75c5a3, rgba(117, 197, 187, 0.51));
+  width: 26.19rem;
+  height: 28.19rem;
+}
+.neurodiversity {
+  position: absolute;
+  top: 3.19rem;
+  left: calc(50% - 465px);
+  font-weight: 500;
+  display: inline-block;
+  width: 64rem;
+  height: 3.44rem;
+}
+.neurodiversity1 {
+  font-family: "Playfair Display";
+}
+.neurodiversity-is-the-container {
+  position: absolute;
+  top: 11.25rem;
+  left: 8.25rem;
+  font-size: 1.25rem;
+  text-align: left;
+  display: inline-block;
+  width: 44.25rem;
+  height: 28rem;
+}
+.female-solidarity-img {
+  position: absolute;
+  top: 13.81rem;
+  left: 53.88rem;
+  width: 28.5rem;
+  height: 28.5rem;
+  object-fit: cover;
+}
+.neurodivergence-types {
+  position: absolute;
+  top: 46.63rem;
+  left: 25.5rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 46.44rem;
+  height: 4.13rem;
+}
+.ellipse-neurodiversity-parent {
+  position: absolute;
+  top: 74.13rem;
+  left: 0;
+  width: 90rem;
+  height: 50.75rem;
+  overflow: hidden;
+}
+.share-your-experiences {
+  flex: 1;
+  position: relative;
+}
+.input-component {
+  border-radius: 20px;
+  background-color: #f7f4fd;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 41.38rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0.94rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 0;
+}
+.button-41 {
+  position: relative;
+  border-radius: 16px;
+  background-color: #b2b0f7;
+  width: 9.63rem;
+  height: 3.38rem;
+  cursor: pointer;
+  z-index: 1;
+}
+.submit {
+  position: absolute;
+  margin: 0 !important;
+  top: 6.88rem;
+  left: 18.88rem;
+  font-size: 0.94rem;
+  font-weight: 500;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  width: 3.75rem;
+  height: 1.69rem;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.input-component-parent {
+  position: absolute;
+  top: 279.63rem;
+  left: 43.44rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 2.19rem;
+  text-align: left;
+  font-size: 1.5rem;
+}
+.desktop-1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 324.06rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 2.25rem;
+  color: #000;
+  font-family: "Playfair Display";
+}
+@media screen and (max-width: 1200px) {
+  .hero-page {
+    opacity: 1;
+  }
+  .hero-page.animate {
+    animation: 1s ease 0s 1 normal forwards wobble-hor-bottom;
+  }
+  @keyframes wobble-hor-bottom {
+    0%,
+    to {
+      transform: translateX(0);
+      transform-origin: 50% 50%;
+    }
+    15% {
+      transform: translateX(-30px) rotate(-6deg);
+    }
+    30% {
+      transform: translateX(15px) rotate(6deg);
+    }
+    45% {
+      transform: translateX(-15px) rotate(-3.6deg);
+    }
+    60% {
+      transform: translateX(9px) rotate(2.4deg);
+    }
+    75% {
+      transform: translateX(-6px) rotate(-1.2deg);
+    }
+  }
+  .navbar {
+    flex-direction: row;
+    gap: 21.38rem;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media screen and (max-width: 960px) {
+  .navbar {
+    flex-direction: row;
+    gap: 21.38rem;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media screen and (max-width: 420px) {
+  .hero-page {
+    width: 90rem;
+  }
+  .navbar {
+    flex-direction: row;
+    gap: 21.38rem;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
